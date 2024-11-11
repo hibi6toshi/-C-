@@ -1,0 +1,11 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "1.2.2: 型チェック",
+  "steps": [
+    {
+      "file": "ch1.md",
+      "description": "クラス指向では、静的な解析ができるので、タイプリッチなコードが好まれる。\nただし、静的解析できるからといってもデータ抽象化は必要。",
+      "line": 4
+    }
+  ]
+}
